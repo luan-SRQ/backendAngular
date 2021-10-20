@@ -1,0 +1,22 @@
+{
+  "produtos": [
+    {
+      "nome": "testeee",
+      "validade": "2020-02-12",
+      "preco": 50000,
+      "id": 1
+    },
+    {
+      "nome": "testeee 1",
+      "validade": "2020-02-12",
+      "preco": 5000,
+      "id": 2
+    },
+    {
+      "nome": "testeee 2",
+      "validade": "2020-02-12",
+      "preco": 500,
+      "id": 3
+    }
+  ]
+}
